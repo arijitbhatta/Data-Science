@@ -1,3 +1,3 @@
 # Data-Science
 
-Aj kuch tufani karte hai
+Adventures in data science.
